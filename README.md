@@ -3,20 +3,20 @@ A program using Voronoi diagram to determine the nearest schools in each segment
 
 Let the loci of the diagram be the districts of the city. And the sites, that is, the main points, be the schools. Children will be able to walk to the school closest to them.
 
-Table with schools:
+<b>Table with schools:</b>
 
 ![Schools data](/Screenshots/SchoolsData.png "Schools data")
 
-Initial look of the program:
+<b>Initial look of the program:</b>
 
 ![Initial look of the program](/Screenshots/NotCalculated_NoZoom.png "Initial look of the program")
 
-Look of the program after calculating:
+<b>Look of the program after calculating:</b>
 
 ![Calculated, no zoom](/Screenshots/Calculated_NoZoom.png "Calculated, no zoom")
 
 View can be zoomed by left-clicking on the image.
 
-Look of the program after calculating (zoomed):
+<b>Look of the program after calculating (zoomed):</b>
 
 ![Calculated, with zoom](/Screenshots/Calculated_Zoom.jpg "Calculated, with zoom")
