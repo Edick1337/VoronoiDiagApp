@@ -1,0 +1,16 @@
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\bin\Release\VoronoiDiagApp.exe.config
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\bin\Release\VoronoiDiagApp.exe.manifest
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\bin\Release\VoronoiDiagApp.application
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\bin\Release\VoronoiDiagApp.exe
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\bin\Release\VoronoiDiagApp.pdb
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\obj\Release\VoronoiDiagApp.csproj.AssemblyReference.cache
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\obj\Release\VoronoiDiagApp.csproj.SuggestedBindingRedirects.cache
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\obj\Release\VoronoiDiagApp.Form1.resources
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\obj\Release\VoronoiDiagApp.FormData.resources
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\obj\Release\VoronoiDiagApp.Properties.Resources.resources
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\obj\Release\VoronoiDiagApp.csproj.GenerateResource.cache
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\obj\Release\VoronoiDiagApp.csproj.CoreCompileInputs.cache
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\obj\Release\VoronoiDiagApp.exe.manifest
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\obj\Release\VoronoiDiagApp.application
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\obj\Release\VoronoiDiagApp.exe
+D:\workspace\VoronoiDiagApp\VoronoiDiagApp\obj\Release\VoronoiDiagApp.pdb
